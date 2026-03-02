@@ -1,0 +1,33 @@
+CAM-Ausgabe für Projekt / CAM Output for Project ESPC3_RF_cc1101_v1.0.T3001
+Ausgabe am / Output Date 02. Mrz 2026, 16:16h
+Projekt erzeugt mit / Project created with TARGET 33.7.0.10 discover
+Ausgabe erzeugt mit / Output created with TARGET 3001! V33.7.0.10
+Created with TARGET 3001! NC edition: Commercial use is illegal!
+Lieferanschrift / Delivery address:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine / Size of PCB: 55,595 mm x 37,5 mm
+Dicke der Platine / Thickness of PCB: 1,6 mm
+KupferDicke / Copper thickness: 35 µm
+
+Beschreibung der erzeugten Dateien / Description of generated files:
+
+ESPC3_RF_cc1101_v1.0.Top = 16 = Kupfer oben / Copper top L1   ( *.Top )
+ESPC3_RF_cc1101_v1.0.Bot = 2 = Kupfer unten / Copper bottom L2   ( *.Bot )
+ESPC3_RF_cc1101_v1.0.Tool = Bohrerliste / Drill tool list
+ESPC3_RF_cc1101_v1.0.Drill = Durchkontaktierte Bohrungen / Plated through drills
+ESPC3_RF_cc1101_v1.0.Outline = 23 = Platinen-Umriss / PCB outline   ( *.Outline )
+ESPC3_RF_cc1101_v1.0.StopTop = 18 = Lötstoppmaske oben / Solder stop top   ( *.StopTop )
+ESPC3_RF_cc1101_v1.0.StopBot = 4 = Lötstoppmaske unten / Solder stop bottom   ( *.StopBot )
+ESPC3_RF_cc1101_v1.0.PosiTop = 21 = Bestückungsdruck oben / Silk screen top   ( *.PosiTop )
+ESPC3_RF_cc1101_v1.0.PasteTop = 19 = Lötpaste oben / Paste top   ( *.PasteTop )
+ESPC3_RF_cc1101_v1.0_BOM.xlsx = BOM / Bill Of Material (JLCPCB)
+ESPC3_RF_cc1101_v1.0_CPL.xlsx = CPL / Component Placement List (JLCPCB)
+
+
+Achtung: Dünnste Schrift (Font too thin) ist kleiner 0,150mm: (0,130 bei 19,3625 | -17,56) auf Ebene 21
